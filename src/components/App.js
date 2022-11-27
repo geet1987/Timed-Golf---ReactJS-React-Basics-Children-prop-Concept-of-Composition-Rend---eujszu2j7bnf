@@ -55,7 +55,7 @@ class App extends Component {
   }
 
 
-  buttonClickHandler () => {
+  buttonClickHandler () {
 
     if (this.state.time == 0) {
 
